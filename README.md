@@ -1,1 +1,1 @@
-my third read me
+readme updated manually form GitHub inerface
