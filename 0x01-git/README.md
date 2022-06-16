@@ -1,1 +1,1 @@
-My proj. readme
+read me is updated from github interface
